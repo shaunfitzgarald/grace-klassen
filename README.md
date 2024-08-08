@@ -67,7 +67,7 @@ This website uses AOS (Animate On Scroll) for various animations. You can custom
 <section id="about" class="py-10" data-aos="fade-right">
 ```
 
-###Technologies
+### Technologies
 
 - **HTML5**
 - **CSS3**
