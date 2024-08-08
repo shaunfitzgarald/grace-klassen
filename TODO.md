@@ -7,6 +7,7 @@
 - find out what socials, if any, she wants to put
 - make gifs or images of her sites/find a good way to display them on portfolio
 - maybe add a galery to view pictures and screenshots of projects
+- ask grace to write a bio for you
 
 
 ## Notes
